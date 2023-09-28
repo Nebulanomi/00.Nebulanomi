@@ -5,7 +5,3 @@ My name is Alexandre Pereira, I'm Portuguese and my objective is to become a Clo
 🔭 I’m currently working on Azure projects.
 
 🌱 I’m learning Azure Networking, Python, Containerization, Kubernetes & Terraform.
-
-Resume website: https://www.alexandrepereira.site/
-
-Linkedin: https://www.linkedin.com/in/alexandre~pereira/
